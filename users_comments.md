@@ -23,6 +23,8 @@ If you found other users, please make an issue to let me know.
 
 - [CSCI/ARTI 4530/6530: Introduction to Robotics (Fall 2018),  University of Georgia ](http://cobweb.cs.uga.edu/~ramviyas/csci_x530.html)
 
+- [CIT Modules & Programmes \- COMP9073 \- Automation with Python](https://courses.cit.ie/index.cfm/page/module/moduleId/14416)
+
 # Stargazers location map
 
 You can check stargazer's locations of this project from:
@@ -37,8 +39,6 @@ This is a list of related projects.
 - [onlytailei/CppRobotics: cpp implementation of robotics algorithms including localization, mapping, SLAM, path planning and control](https://github.com/onlytailei/CppRobotics)
 
 # Individual users comments
-
-These are comments from user's using [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/AtsushiSakai)
 
 ---
 
@@ -401,6 +401,15 @@ URL: https://2019.robocup.org/downloads/program/HughesEtAl2019.pdf
 6. Hughes, Josie, Masaru Shimizu, and Arnoud Visser. "A review of robot rescue simulation platforms for robotics education." (2019).
 URL: https://www.semanticscholar.org/paper/A-Review-of-Robot-Rescue-Simulation-Platforms-for-Hughes-Shimizu/318a4bcb97a44661422ae1430d950efc408097da
 
+7. Ghosh, Ritwika, et al. "CyPhyHouse: A Programming, Simulation, and Deployment Toolchain for Heterogeneous Distributed Coordination." arXiv preprint arXiv:1910.01557 (2019).
+URL: https://arxiv.org/abs/1910.01557
+
+8. Hahn, Carsten, et al. "Dynamic Path Planning with Stable Growing Neural Gas." (2019).
+URL: https://pdfs.semanticscholar.org/5c06/f3cb9542a51e1bf1a32523c1bc7fea6cecc5.pdf
+
+9. Brijen Thananjeyan, et al. "ABC-LMPC: Safe Sample-Based Learning MPC for Stochastic Nonlinear Dynamical Systems with Adjustable Boundary Conditions"
+URL: https://arxiv.org/pdf/2003.01410.pdf
+
 # Others
 
 - Autonomous Vehicle Readings https://richardkelley.io/readings
@@ -409,3 +418,4 @@ URL: https://www.semanticscholar.org/paper/A-Review-of-Robot-Rescue-Simulation-P
 
 - Real-time Model Predictive Control (MPC), ACADO, Python | Work-is-Playing http://grauonline.de/wordpress/?page_id=3244
 
+- 💡 Greatest of GitHub - Python Robotics (Amazing!) - YouTube https://www.youtube.com/watch?v=f_pPaYx6Gu0&feature=emb_logo
